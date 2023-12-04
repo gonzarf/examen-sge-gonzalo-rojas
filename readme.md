@@ -1,3 +1,3 @@
-# Prueba de SGE
+# Examen de SGE
 Gonzalo Rojas Fernandez
-Soy programador
+Tendré suerte
